@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAV%20ROY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Data%20Science%20%7C%20ML%20%26%20AI%20Builder%20%7C%20Sophomore&descAlignY=55&descSize=16" />
+<img src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+ML+%26+AI+Systems+from+Scratch;Local+LLM+on+RTX+4060+%E2%9C%94;FastAPI+%7C+Ollama+%7C+n8n+Automation;CSE+Data+Science+Sophomore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BUILDING+ML+%26+AI+SYSTEMS+FROM+SCRATCH;LOCAL+LLM+ON+RTX+4060+%E2%9C%94;FASTAPI+%7C+OLLAMA+%7C+N8N+AUTOMATION;CSE+DATA+SCIENCE+%7C+SOPHOMORE)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,15 +11,20 @@
 ## 💫 About Me
 
 ```python
-abhinav_roy = {
-    "name"       : "Abhinav Roy",
-    "degree"     : "B.Tech CSE (Data Science)",
-    "year"       : "Sophomore",
-    "focus"      : ["Machine Learning", "AI Systems", "Backend Engineering"],
-    "currently"  : "Building ML & AI projects from scratch",
-    "local_llm"  : "DeepSeek-R1 14B on RTX 4060 (8GB VRAM)",
-    "fun_fact"   : "I game and run LLMs on the same machine"
-}
+> INITIALIZING PLAYER PROFILE...
+> LOADING STATS...
+
+PLAYER         = "ABHINAV ROY"
+CLASS          = "CSE DATA SCIENCE SOPHOMORE"
+CURRENT_QUEST  = "BUILDING ML & AI SYSTEMS FROM SCRATCH"
+SKILLS         = ["MACHINE LEARNING", "AI SYSTEMS", "BACKEND ENGINEERING"]
+SIDE_QUEST     = "GAME-BASED CAPTCHA WITH HMAC + REDIS + ML BRIDGE"
+WEAPON         = "DEEPSEEK-R1 14B | RTX 4060 | 8GB VRAM"
+GUILD          = "OPEN SOURCE & AUTOMATION BUILDERS"
+FUN_FACT       = "I GAME & RUN LLMs ON THE SAME MACHINE — SIMULTANEOUSLY"
+STATUS         = "ONLINE 🟢"
+
+> PROFILE LOADED SUCCESSFULLY. WELCOME.
 ```
 
 🔭 **CURRENTLY WORKING ON:** BUILDING ML & AI PROJECTS FROM SCRATCH — INCLUDING A GAME-BASED CAPTCHA SYSTEM (DINO RUN-STYLE) WITH HMAC SESSION SECURITY, PASSIVE BEHAVIOR TRACKING, AND AN ML BRIDGE INTEGRATION USING FASTAPI AND REDIS.
@@ -141,30 +146,7 @@ abhinav_roy = {
 
 </div>
 
-> **Setup:** To enable the snake, add this GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Abhinav-Roy-01
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+
 
 ---
 
@@ -172,11 +154,7 @@ abhinav_roy = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinav-Roy-01?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Abhinav-Roy-01)
-
-</div>
-
-> **Note:** Replace `Abhinav-Roy-01` above with your actual LeetCode username.
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ABHINAV_ROY_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/ABHINAV_ROY_/)
 
 ---
 

@@ -125,10 +125,16 @@ STATUS         = "ONLINE 🟢"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="700" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Roy-01&theme=tokyonight" width="100%" />
 
 </div>
 

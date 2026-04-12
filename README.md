@@ -8,7 +8,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 ABOUT ME
 
 ```python
 > INITIALIZING PLAYER PROFILE...
@@ -43,7 +43,7 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 🌐 Socials
+## 🌐 SOCIALS
 
 <div align="center">
 
@@ -56,11 +56,11 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 💻 Tech Stack
+## 💻 TECH STACK
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,7 +68,7 @@ STATUS         = "ONLINE 🟢"
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-**ML / AI / Data Science**
+**ML / AI / DATA SCIENCE**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -81,7 +81,7 @@ STATUS         = "ONLINE 🟢"
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-**Backend & Automation**
+**BACKEND & AUTOMATION**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -91,7 +91,7 @@ STATUS         = "ONLINE 🟢"
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-**Databases**
+**DATABASES**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -101,7 +101,7 @@ STATUS         = "ONLINE 🟢"
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Cloud & DevOps**
+**CLOUD & DEVOPS**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -110,7 +110,7 @@ STATUS         = "ONLINE 🟢"
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools & Others**
+**TOOLS & OTHERS**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -121,20 +121,20 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -146,19 +146,19 @@ STATUS         = "ONLINE 🟢"
 
 </div>
 
-
-
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LEETCODE STATS
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ABHINAV_ROY_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/ABHINAV_ROY_/)
 
+</div>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -168,7 +168,7 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ RANDOM DEV QUOTE
 
 <div align="center">
 
@@ -178,7 +178,7 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 TOP CONTRIBUTED REPOS
 
 <div align="center">
 
@@ -196,4 +196,4 @@ STATUS         = "ONLINE 🟢"
 
 </div>
 
-<!-- Proudly crafted by Abhinav Roy -->
+<!-- PROUDLY CRAFTED BY ABHINAV ROY -->

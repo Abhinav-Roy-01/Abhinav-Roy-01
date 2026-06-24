@@ -141,7 +141,11 @@ abhinav_roy = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 </div>
 

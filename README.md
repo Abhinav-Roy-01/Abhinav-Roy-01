@@ -1,49 +1,42 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ABHINAV%20ROY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Data%20Science%20%7C%20ML%20%26%20AI%20Builder%20%7C%20Sophomore&descAlignY=58&descSize=17" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BUILDING+ML+%26+AI+SYSTEMS+FROM+SCRATCH;LOCAL+LLM+ON+RTX+4060+%E2%9C%94;FASTAPI+%7C+OLLAMA+%7C+N8N+AUTOMATION;CSE+DATA+SCIENCE+%7C+SOPHOMORE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building+ML+%26+AI+Systems+from+Scratch;Local+LLM+on+RTX+4060+%E2%9C%94;FastAPI+%7C+Ollama+%7C+n8n+Automation;CSE+Data+Science+Sophomore)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💫 ABOUT ME
+## 💫 About Me
 
 ```python
-> INITIALIZING PLAYER PROFILE...
-> LOADING STATS...
-
-PLAYER         = "ABHINAV ROY"
-CLASS          = "CSE DATA SCIENCE SOPHOMORE"
-CURRENT_QUEST  = "BUILDING ML & AI SYSTEMS FROM SCRATCH"
-SKILLS         = ["MACHINE LEARNING", "AI SYSTEMS", "BACKEND ENGINEERING"]
-SIDE_QUEST     = "GAME-BASED CAPTCHA WITH HMAC + REDIS + ML BRIDGE"
-WEAPON         = "DEEPSEEK-R1 14B | RTX 4060 | 8GB VRAM"
-GUILD          = "OPEN SOURCE & AUTOMATION BUILDERS"
-FUN_FACT       = "I GAME & RUN LLMs ON THE SAME MACHINE — SIMULTANEOUSLY"
-STATUS         = "ONLINE 🟢"
-
-> PROFILE LOADED SUCCESSFULLY. WELCOME.
+abhinav_roy = {
+    "name"       : "Abhinav Roy",
+    "degree"     : "B.Tech CSE (Data Science)",
+    "year"       : "Sophomore",
+    "focus"      : ["Machine Learning", "AI Systems", "Backend Engineering"],
+    "currently"  : "Building ML & AI projects from scratch",
+    "local_llm"  : "DeepSeek-R1 14B on RTX 4060 (8GB VRAM)",
+    "fun_fact"   : "I game and run LLMs on the same machine"
+}
 ```
 
-🔭 **CURRENTLY WORKING ON:** BUILDING ML & AI PROJECTS FROM SCRATCH — INCLUDING A GAME-BASED CAPTCHA SYSTEM (DINO RUN-STYLE) WITH HMAC SESSION SECURITY, PASSIVE BEHAVIOR TRACKING, AND AN ML BRIDGE INTEGRATION USING FASTAPI AND REDIS.
+🔭 **Currently working on:** Building ML & AI projects from scratch — including a game-based CAPTCHA system (Dino Run-style) with HMAC session security, passive behavior tracking, and an ML bridge integration using FastAPI and Redis.
 
-👥 **LOOKING TO COLLABORATE ON:** AI/ML PROJECTS, SYSTEM DESIGN EXPERIMENTS, AND OPEN-SOURCE TOOLS AROUND AUTOMATION AND INTELLIGENT SYSTEMS.
+👥 **Looking to collaborate on:** AI/ML projects, system design experiments, and open-source tools around automation and intelligent systems.
 
-💛 **LOOKING FOR HELP WITH:** FINE-TUNING LLMS ON LOW VRAM SETUPS AND SCALING ML PIPELINES EFFICIENTLY.
+💛 **Looking for help with:** Fine-tuning LLMs on low VRAM setups and scaling ML pipelines efficiently.
 
-🌱 **CURRENTLY LEARNING:** MACHINE LEARNING, AI CONCEPTS, MYSQL, SYSTEM DESIGN, AND BUILDING PRODUCTION-READY DEV ENVIRONMENTS.
+🌱 **Currently learning:** Machine Learning, AI concepts, MySQL, System Design, and building production-ready dev environments.
 
-💬 **ASK ME ABOUT:** LOCAL AI STACKS WITH OLLAMA, N8N AUTOMATION WORKFLOWS, FASTAPI BACKENDS, AND SETTING UP A FULL DEV ENVIRONMENT ON WINDOWS FROM SCRATCH.
+💬 **Ask me about:** Local AI stacks with Ollama, n8n automation workflows, FastAPI backends, and setting up a full dev environment on Windows from scratch.
 
-⚡ **FUN FACT:** I RUN A 14B PARAMETER LLM LOCALLY ON MY RTX 4060 WHILE ALSO USING THE SAME MACHINE FOR GAMING.
-
-🛠️ **STACK:** PYTHON · C++ · MYSQL · FASTAPI · FLASK · REDIS · NODE.JS · GIT · NUMPY · PANDAS · SCIKIT-LEARN · TENSORFLOW · PYTORCH · OLLAMA · DEEPSEEK-R1 · LLM INFERENCE · N8N · AUTOMATION WORKFLOWS · SYSTEM DESIGN · DATA ANALYSIS · FEATURE ENGINEERING · MODEL TRAINING
+⚡ **Fun fact:** I run a 14B parameter LLM locally on my RTX 4060 while also using the same machine for gaming.
 
 ---
 
-## 🌐 SOCIALS
+## 🌐 Socials
 
 <div align="center">
 
@@ -56,91 +49,131 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 💻 TECH STACK
+## 🚀 Featured Projects
 
 <div align="center">
 
-**LANGUAGES**
+| 🏗️ Project | 📄 Description | 🛠️ Stack |
+|:---:|:---|:---|
+| **🦕 CAPTCHA-ML** | Game-based CAPTCHA (Dino Run-style) with HMAC session security, passive behavior tracking & ML bridge | `FastAPI` `Redis` `scikit-learn` `Python` |
+| **🛡️ ML DDoS Shield** | AI-powered DDoS detection using unsupervised anomaly detection with real-time Redis pipeline | `Flask` `IsolationForest` `Redis` `Python` |
+| **🚚 BiltyBook** | Supply chain web app with AI-assisted document parsing and GCP backend | `FastAPI` `React` `GCP` `Gemini API` |
+| **🤖 NexusOps** | Autonomous DevOps intelligence platform with Claude API and n8n workflow orchestration | `n8n` `FastAPI` `Claude API` `Docker` |
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+</div>
 
-**ML / AI / DATA SCIENCE**
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🧠 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 ML / AI / Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-**BACKEND & AUTOMATION**
+### ⚙️ Backend & Automation
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**DATABASES**
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-**CLOUD & DEVOPS**
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**TOOLS & OTHERS**
+### 🛠️ Tools
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Roy-01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="700" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Roy-01&theme=tokyonight" width="100%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Abhinav-Roy-01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/Abhinav-Roy-01/Abhinav-Roy-01/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+> **Setup:** Add this GitHub Actions workflow at `.github/workflows/profile-3d.yml` in your profile repo to generate the 3D contribution graph automatically:
+>
+> ```yaml
+> name: GitHub-Profile-3D-Contrib
+> on:
+>   schedule: [{ cron: "0 18 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     name: generate-github-profile-3d-contribution
+>     steps:
+>       - uses: actions/checkout@v3
+>       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           USERNAME: Abhinav-Roy-01
+>       - name: Commit & Push
+>         run: |
+>           git config user.email "action@github.com"
+>           git config user.name "GitHub Action"
+>           git add -A .
+>           git commit -m "generate 3d contribution" || true
+>           git push
+> ```
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -152,19 +185,46 @@ STATUS         = "ONLINE 🟢"
 
 </div>
 
+> **Setup:** Add this GitHub Actions workflow at `.github/workflows/snake.yml`:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Abhinav-Roy-01
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
 ---
 
-## 🏆 LEETCODE STATS
+## 🏆 LeetCode Stats
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ABHINAV_ROY_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/ABHINAV_ROY_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 
 </div>
 
+> **Note:** Replace `YOUR_LEETCODE_USERNAME` above with your actual LeetCode handle.
+
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -174,7 +234,7 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## ✍️ RANDOM DEV QUOTE
+## ✍️ Random Dev Quote
 
 <div align="center">
 
@@ -184,7 +244,7 @@ STATUS         = "ONLINE 🟢"
 
 ---
 
-## 🔝 TOP CONTRIBUTED REPOS
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
@@ -202,4 +262,4 @@ STATUS         = "ONLINE 🟢"
 
 </div>
 
-<!-- PROUDLY CRAFTED BY ABHINAV ROY -->
+<!-- Proudly crafted by Abhinav Roy -->

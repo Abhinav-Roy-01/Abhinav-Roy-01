@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lottiefiles.com/free-animation/coder-fjBoSq9xgQ" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=BUILDING+ML+%26+AI+SYSTEMS+FROM+SCRATCH;LOCAL+LLM+ON+RTX+4060+%E2%9C%94;FASTAPI+%7C+OLLAMA+%7C+N8N+AUTOMATION;CSE+DATA+SCIENCE+SOPHOMORE)](https://git.io/typing-svg)
 

@@ -211,9 +211,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/day.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/day.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/profile-green.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/profile-green.svg" />
 </picture>
 
 </div>

@@ -8,38 +8,110 @@
 
 ---
 
-<h2 align="center">💫 ABOUT ME</h2>
-
 <div align="center">
 
-![NAME](https://img.shields.io/badge/NAME-ABHINAV%20ROY-00D9FF?style=for-the-badge&labelColor=1a1a2e)
-![DEGREE](https://img.shields.io/badge/DEGREE-B.TECH%20CSE%20(DATA%20SCIENCE)-B490FF?style=for-the-badge&labelColor=1a1a2e)
-![YEAR](https://img.shields.io/badge/YEAR-SOPHOMORE-00FFA3?style=for-the-badge&labelColor=1a1a2e)
-![LOCAL LLM](https://img.shields.io/badge/LOCAL%20LLM-DEEPSEEK--R1%2014B%20ON%20RTX%204060-FF6FD8?style=for-the-badge&labelColor=1a1a2e)
-
-**FOCUS**
-
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-00D9FF?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI%20SYSTEMS-B490FF?style=for-the-badge)
-![Backend Engineering](https://img.shields.io/badge/BACKEND%20ENGINEERING-00FFA3?style=for-the-badge)
+![ABOUT ME](https://img.shields.io/badge/💫_ABOUT_ME-6C63FF?style=for-the-badge&logoColor=white)
 
 </div>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-![Currently Building](https://img.shields.io/badge/🔭%20CURRENTLY%20BUILDING-GAME%20CAPTCHA%20(DINO%20RUN)%20%2B%20HMAC%20%2B%20FASTAPI%20%2B%20REDIS-00D9FF?style=flat-square&labelColor=1a1a2e)
+![NAME](https://img.shields.io/badge/NAME-00D9FF?style=flat-square&logoColor=white)
 
-![Collaborate](https://img.shields.io/badge/👥%20COLLABORATE%20ON-AI%2FML%20%7C%20SYSTEM%20DESIGN%20%7C%20OPEN--SOURCE%20AUTOMATION-B490FF?style=flat-square&labelColor=1a1a2e)
+**ABHINAV ROY**
 
-![Help](https://img.shields.io/badge/💛%20HELP%20WITH-FINE--TUNING%20LLMS%20%7C%20SCALING%20ML%20PIPELINES-FFD166?style=flat-square&labelColor=1a1a2e)
+</td>
+<td align="center" width="50%">
 
-![Learning](https://img.shields.io/badge/🌱%20LEARNING-ML%20%7C%20AI%20%7C%20MYSQL%20%7C%20SYSTEM%20DESIGN%20%7C%20DEVOPS-00FFA3?style=flat-square&labelColor=1a1a2e)
+![DEGREE](https://img.shields.io/badge/DEGREE-B490FF?style=flat-square&logoColor=white)
 
-![Ask Me About](https://img.shields.io/badge/💬%20ASK%20ME%20ABOUT-OLLAMA%20%7C%20N8N%20%7C%20FASTAPI%20%7C%20WINDOWS%20DEV%20SETUP-FF6FD8?style=flat-square&labelColor=1a1a2e)
+**B.TECH CSE (DATA SCIENCE)**
 
-![Fun Fact](https://img.shields.io/badge/⚡%20FUN%20FACT-14B%20LLM%20%2B%20GAMING%20ON%20ONE%20RTX%204060-00D9FF?style=flat-square&labelColor=1a1a2e)
+</td>
+</tr>
+<tr>
+<td align="center">
 
-</div>
+![YEAR](https://img.shields.io/badge/YEAR-00D9FF?style=flat-square&logoColor=white)
+
+**SOPHOMORE**
+
+</td>
+<td align="center">
+
+![LOCAL LLM](https://img.shields.io/badge/LOCAL_LLM-B490FF?style=flat-square&logoColor=white)
+
+**DEEPSEEK-R1 14B ON RTX 4060**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![FOCUS](https://img.shields.io/badge/FOCUS-00FFA3?style=flat-square&logoColor=black)
+
+**MACHINE LEARNING &#8226; AI SYSTEMS &#8226; BACKEND ENGINEERING**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![CURRENTLY WORKING ON](https://img.shields.io/badge/🔭_CURRENTLY_WORKING_ON-FF9FDC?style=flat-square&logoColor=black)
+
+**BUILDING ML & AI PROJECTS FROM SCRATCH — INCLUDING A GAME-BASED CAPTCHA SYSTEM (DINO RUN-STYLE) WITH HMAC SESSION SECURITY, PASSIVE BEHAVIOR TRACKING, AND AN ML BRIDGE INTEGRATION USING FASTAPI AND REDIS.**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![LOOKING TO COLLABORATE ON](https://img.shields.io/badge/👥_LOOKING_TO_COLLABORATE_ON-7EE8FF?style=flat-square&logoColor=black)
+
+**AI/ML PROJECTS, SYSTEM DESIGN EXPERIMENTS, AND OPEN-SOURCE TOOLS AROUND AUTOMATION AND INTELLIGENT SYSTEMS.**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![LOOKING FOR HELP WITH](https://img.shields.io/badge/💛_LOOKING_FOR_HELP_WITH-FFD97E?style=flat-square&logoColor=black)
+
+**FINE-TUNING LLMS ON LOW VRAM SETUPS AND SCALING ML PIPELINES EFFICIENTLY.**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![CURRENTLY LEARNING](https://img.shields.io/badge/🌱_CURRENTLY_LEARNING-8AFFC1?style=flat-square&logoColor=black)
+
+**MACHINE LEARNING, AI CONCEPTS, MYSQL, SYSTEM DESIGN, AND BUILDING PRODUCTION-READY DEV ENVIRONMENTS.**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![ASK ME ABOUT](https://img.shields.io/badge/💬_ASK_ME_ABOUT-C3B6FF?style=flat-square&logoColor=black)
+
+**LOCAL AI STACKS WITH OLLAMA, N8N AUTOMATION WORKFLOWS, FASTAPI BACKENDS, AND SETTING UP A FULL DEV ENVIRONMENT ON WINDOWS FROM SCRATCH.**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![FUN FACT](https://img.shields.io/badge/⚡_FUN_FACT-FF9FDC?style=flat-square&logoColor=black)
+
+**I RUN A 14B PARAMETER LLM LOCALLY ON MY RTX 4060 WHILE ALSO USING THE SAME MACHINE FOR GAMING.**
+
+</td>
+</tr>
+</table>
+
 
 ---
 

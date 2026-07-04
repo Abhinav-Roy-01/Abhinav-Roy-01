@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAV%20ROY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Data%20Science%20%7C%20ML%20%26%20AI%20Builder%20%7C%20Sophomore&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAV%20ROY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20DATA%20SCIENCE%20%7C%20ML%20%26%20AI%20BUILDER%20%7C%20SOPHOMORE&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+ML+%26+AI+Systems+from+Scratch;Local+LLM+on+RTX+4060+%E2%9C%94;FastAPI+%7C+Ollama+%7C+n8n+Automation;CSE+Data+Science+Sophomore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=BUILDING+ML+%26+AI+SYSTEMS+FROM+SCRATCH;LOCAL+LLM+ON+RTX+4060+%E2%9C%94;FASTAPI+%7C+OLLAMA+%7C+N8N+AUTOMATION;CSE+DATA+SCIENCE+SOPHOMORE)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💫 About Me
+<h2 align="center">💫 ABOUT ME</h2>
 
-```python
-abhinav_roy = {
-    "name"       : "Abhinav Roy",
-    "degree"     : "B.Tech CSE (Data Science)",
-    "year"       : "Sophomore",
-    "focus"      : ["Machine Learning", "AI Systems", "Backend Engineering"],
-    "currently"  : "Building ML & AI projects from scratch",
-    "local_llm"  : "DeepSeek-R1 14B on RTX 4060 (8GB VRAM)",
-    "fun_fact"   : "I game and run LLMs on the same machine"
-}
-```
+<div align="center">
+
+<img src="./assets/about-glass.svg" alt="About Me - Abhinav Roy" width="820" />
+
+</div>
+
+<div align="center">
 
 🔭 **CURRENTLY WORKING ON:** BUILDING ML & AI PROJECTS FROM SCRATCH — INCLUDING A GAME-BASED CAPTCHA SYSTEM (DINO RUN-STYLE) WITH HMAC SESSION SECURITY, PASSIVE BEHAVIOR TRACKING, AND AN ML BRIDGE INTEGRATION USING FASTAPI AND REDIS.
 
@@ -34,89 +30,89 @@ abhinav_roy = {
 
 ⚡ **FUN FACT:** I RUN A 14B PARAMETER LLM LOCALLY ON MY RTX 4060 WHILE ALSO USING THE SAME MACHINE FOR GAMING.
 
-🛠️ **STACK:** PYTHON · C++ · MYSQL · FASTAPI · FLASK · REDIS · NODE.JS · GIT · NUMPY · PANDAS · SCIKIT-LEARN · TENSORFLOW · PYTORCH · OLLAMA · DEEPSEEK-R1 · LLM INFERENCE · N8N · AUTOMATION WORKFLOWS · SYSTEM DESIGN · DATA ANALYSIS · FEATURE ENGINEERING · MODEL TRAINING
+</div>
 
 ---
 
-## 🌐 Socials
+<h2 align="center">🌐 SOCIALS</h2>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhinav_roy001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-roy-/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhinav_roy001)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-roy-/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@roy_abhinav_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinav.roy.10.07.05@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?logo=gmail&logoColor=white)](mailto:abhinav.roy.10.07.05@gmail.com)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 TECH STACK</h2>
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash Script](https://img.shields.io/badge/BASH_SCRIPT-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Solidity](https://img.shields.io/badge/SOLIDITY-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-**ML / AI / Data Science**
+**ML / AI / DATA SCIENCE**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/PLOTLY-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SCIPY-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![mlflow](https://img.shields.io/badge/MLFLOW-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-**Backend & Automation**
+**BACKEND & AUTOMATION**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/FLASK-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/APACHE%20AIRFLOW-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/APACHE%20KAFKA-000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-**Databases**
+**DATABASES**
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/AMAZON%20DYNAMODB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Cloud & DevOps**
+**CLOUD & DEVOPS**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools & Others**
+**TOOLS & OTHERS**
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power Bi](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/NOTION-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/WINDOWS%20TERMINAL-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GITHUB STATS</h2>
 
 <div align="center">
 
@@ -129,7 +125,52 @@ abhinav_roy = {
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🧊 3D CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/day.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output-3d-contrib/day.svg" />
+</picture>
+
+</div>
+
+> **SETUP:** ADD THIS WORKFLOW AT `.github/workflows/profile-3d.yml` IN YOUR PROFILE REPO (GENERATED BY [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib)):
+>
+> ```yaml
+> name: GitHub-Profile-3D-Contrib
+> on:
+>   schedule:
+>     - cron: "0 18 * * *"   # 03:00 JST / 18:00 UTC daily
+>   workflow_dispatch:
+> permissions:
+>   contents: write
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     name: generate-github-profile-3d-contrib
+>     steps:
+>       - uses: actions/checkout@v5
+>       - uses: yoshi389111/github-profile-3d-contrib@latest
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           USERNAME: ${{ github.repository_owner }}
+>       - name: push SVGs to the output-3d-contrib branch
+>         uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output-3d-contrib
+>           build_dir: profile-3d-contrib
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+>
+> RUN IT ONCE MANUALLY FROM **ACTIONS → GITHUB-PROFILE-3D-CONTRIB → RUN WORKFLOW**, THEN IT REFRESHES DAILY. THE ACTION OUTPUTS `day.svg` / `night.svg` INTO THE `output-3d-contrib` BRANCH, WHICH THE `<picture>` BLOCK ABOVE ALREADY POINTS TO — NO FURTHER EDITS NEEDED ONCE THE BRANCH EXISTS.
+
+---
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
@@ -141,7 +182,7 @@ abhinav_roy = {
 
 </div>
 
-> **Setup:** To enable the snake, add this GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repo:
+> **SETUP:** ADD THIS WORKFLOW AT `.github/workflows/snake.yml` IN YOUR PROFILE REPO:
 >
 > ```yaml
 > name: Generate Snake
@@ -168,19 +209,17 @@ abhinav_roy = {
 
 ---
 
-## 🏆 LeetCode Stats
+<h2 align="center">🏆 LEETCODE STATS</h2>
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinav-Roy-01?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/Abhinav-Roy-01)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ABHINAV_ROY_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/ABHINAV_ROY_)
 
 </div>
 
-> **Note:** Replace `Abhinav-Roy-01` above with your actual LeetCode username.
-
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
 
 <div align="center">
 
@@ -190,7 +229,7 @@ abhinav_roy = {
 
 ---
 
-## ✍️ Random Dev Quote
+<h2 align="center">✍️ RANDOM DEV QUOTE</h2>
 
 <div align="center">
 
@@ -200,7 +239,7 @@ abhinav_roy = {
 
 ---
 
-## 🔝 Top Contributed Repos
+<h2 align="center">🔝 TOP CONTRIBUTED REPOS</h2>
 
 <div align="center">
 
@@ -208,14 +247,16 @@ abhinav_roy = {
 
 </div>
 
+> **NOTE:** THERE ISN'T CURRENTLY A MAINTAINED "3D" VERSION OF THIS SPECIFIC WIDGET — I DIDN'T WANT TO POINT YOU AT A FAKE/BROKEN URL. THIS FLAT CARD ABOVE IS STILL THE MOST RELIABLE ONE FOR TOP CONTRIBUTED REPOS. IF YOU STILL WANT A 3D/ISOMETRIC FEEL SOMEWHERE ON THE PROFILE, THE CONTRIBUTION GRAPH SECTION ABOVE ALREADY COVERS THAT.
+
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Abhinav-Roy-01&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abhinav-Roy-01&label=PROFILE%20VIEWS&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
 
-<!-- Proudly crafted by Abhinav Roy -->
+<!-- PROUDLY CRAFTED BY ABHINAV ROY -->

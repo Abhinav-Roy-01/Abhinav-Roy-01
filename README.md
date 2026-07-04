@@ -226,37 +226,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="900" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/dist/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/dist/github-snake.svg" />
 </picture>
 
 </div>
 
-> **SETUP:** ADD THIS WORKFLOW AT `.github/workflows/snake.yml` IN YOUR PROFILE REPO:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Abhinav-Roy-01
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 

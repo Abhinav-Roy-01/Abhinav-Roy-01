@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAV%20ROY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20DATA%20SCIENCE%20%7C%20ML%20%26%20AI%20BUILDER%20%7C%20SOPHOMORE&descAlignY=55&descSize=16" />
+<img src="https://in.pinterest.com/pin/351632683430146426/" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=BUILDING+ML+%26+AI+SYSTEMS+FROM+SCRATCH;LOCAL+LLM+ON+RTX+4060+%E2%9C%94;FASTAPI+%7C+OLLAMA+%7C+N8N+AUTOMATION;CSE+DATA+SCIENCE+SOPHOMORE)](https://git.io/typing-svg)
 

@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./assets/about-glass.svg" alt="About Me - Abhinav Roy" width="820" />
+<img src="file:///C:/Users/royab/Downloads/about-glass.svg" alt="About Me - Abhinav Roy" width="820" />
 
 </div>
 

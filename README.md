@@ -256,9 +256,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhinav-Roy-01/Abhinav-Roy-01/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="900" />
 </picture>
 
 </div>
